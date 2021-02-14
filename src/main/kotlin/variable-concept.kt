@@ -16,4 +16,9 @@ fun main (){
     // We can also declare both var and val like this
     // var x = 3
     // val y = 29
+
+    //String Declaration
+
+    var sampleString = "Hello Sample String"
+    println(sampleString)
 }
